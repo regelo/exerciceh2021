@@ -4,4 +4,5 @@ int main(){
     std::cout << "Salut le monde !";
     int x = 24;
     std::cout << x << std::endl;
+    std::cout << "salut" << std::endl;
 }
