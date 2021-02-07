@@ -1,0 +1,5 @@
+*.mk
+Debug
+compile_flags.txt
+*.project
+exercices.txt
